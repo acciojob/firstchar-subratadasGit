@@ -3,7 +3,7 @@ function firstChar(text) {
 	text = text.trim()
 	let result = ""
 	result = text[0];
-	return result 
+	console.log(result)
 }
 
 // Do not change the code below
